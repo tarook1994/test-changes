@@ -1,6 +1,6 @@
 title: Suspicious SQL Query2
 id: d84c0ded-edd7-4123-80ed-348bb3ccc4d5
-status: experimental
+status: experimental1234
 description: >-
   Detects suspicious SQL query keywrods that are often used during recon,
   exfiltration or destructive activities. Such as dropping tables and selecting
