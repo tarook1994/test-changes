@@ -1,3 +1,0 @@
-logsource:
-  category: database
-  definition: 'Requirements: Must be able to log the SQL queries'
