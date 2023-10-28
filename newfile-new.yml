@@ -1,0 +1,5 @@
+falsepositives:
+  - Inventory and monitoring activity
+  - Vulnerability scanners
+  - Legitimate applications
+level: Hard
