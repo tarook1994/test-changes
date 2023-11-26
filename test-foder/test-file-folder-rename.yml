@@ -1,6 +1,7 @@
 falsepositives:
   - Inventory and monitoring activity
   - Vulnerability scanners
+  - scanners
   - Legitimate applications
   - Legitimate applications
   - Legitimate applications
